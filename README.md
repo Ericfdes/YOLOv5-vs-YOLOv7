@@ -88,5 +88,5 @@ The research explores the efficiency of YOLOv5 and YOLOv7 for ISL detection, hig
 ## **Contributors**  
 👤 **Eric Fernandes**  
 📧 Email: ericfergoa@gmail.c0m
-🔗 GitHub: [your-username](https://github.com/EricFdes)  
+🔗 GitHub: [Ericfdes](https://github.com/EricFdes)  
 
